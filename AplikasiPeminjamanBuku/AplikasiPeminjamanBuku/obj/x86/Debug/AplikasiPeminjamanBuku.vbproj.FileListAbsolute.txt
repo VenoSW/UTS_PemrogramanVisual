@@ -1,0 +1,19 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiPeminjamanBuku\bin\Debug\AplikasiPeminjamanBuku.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiPeminjamanBuku\bin\Debug\AplikasiPeminjamanBuku.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiPeminjamanBuku\bin\Debug\AplikasiPeminjamanBuku.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPeminjamanBuku\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPeminjamanBuku\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPeminjamanBuku\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPeminjamanBuku\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPeminjamanBuku\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPeminjamanBuku\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPeminjamanBuku\AplikasiPeminjamanBuku\bin\Debug\AplikasiPeminjamanBuku.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPeminjamanBuku\AplikasiPeminjamanBuku\bin\Debug\AplikasiPeminjamanBuku.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\AplikasiPeminjamanBuku\AplikasiPeminjamanBuku\bin\Debug\AplikasiPeminjamanBuku.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AplikasiPeminjamanBuku\AplikasiPeminjamanBuku\obj\x86\Debug\AplikasiPeminjamanBuku.Login.resources
